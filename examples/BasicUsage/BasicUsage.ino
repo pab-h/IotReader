@@ -1,4 +1,5 @@
 #include "Executable.h"
+#include "IotReader.h"
 #include <Arduino.h>
 
 class EchoExec: public Executable {
